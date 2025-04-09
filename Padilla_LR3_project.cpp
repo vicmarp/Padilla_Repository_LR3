@@ -85,4 +85,5 @@ string addRight(int& num1,int& num2){
 }
 string addLefth(int& num1,int& num2){
     //Developed by Victor Padilla - branch branch_fun_5
+    return to_string(num1)+to_string(num2);
 }
